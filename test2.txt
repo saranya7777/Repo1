@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A4CD-92DC
+
+ Directory of C:\Users\Saranya Vallabhaneni\Desktop\My project
+
+07/29/2018  04:33 PM    <DIR>          .
+07/29/2018  04:33 PM    <DIR>          ..
+07/29/2018  01:42 PM                22 index.html
+07/29/2018  01:41 PM                 8 test1.txt
+07/29/2018  04:33 PM                 0 test2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  750,172,884,992 bytes free
